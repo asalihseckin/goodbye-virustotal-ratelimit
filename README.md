@@ -7,8 +7,6 @@
 
 A multi-threaded **VirusTotal** reputation scanner built for bulk-auditing large target lists (1000+) without manual IP/key management.
 
-> Originally built to scan ~2000 Turkish news domains for malware/phishing indicators — works with domains, IPs, file hashes, and URLs, mixed in a single list. 🌐
-
 ---
 
 ## ✨ Features
