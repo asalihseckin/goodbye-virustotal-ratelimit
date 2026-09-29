@@ -137,4 +137,4 @@ Then sit back and watch the color-coded live feed:
 
 ---
 
-<p align="center">Made for bulk threat intelligence 🔍</p>
+<p align="center">out of index</p>
